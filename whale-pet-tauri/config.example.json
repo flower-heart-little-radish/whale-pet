@@ -1,0 +1,16 @@
+{
+  "python": "",
+  "refreshSeconds": 120,
+  "mode": "auto",
+  "scale": 1,
+  "scaleByForm": {
+    "chibi": 1,
+    "normal": 1
+  },
+  "alwaysOnTop": true,
+  "snapToEdge": true,
+  "autostart": false,
+  "remote": true,
+  "pos": null,
+  "switchSeconds": 90
+}

@@ -1,0 +1,247 @@
+[
+ {
+  "bg_ratio": 0.51,
+  "ratio": 1.0,
+  "aspect": 2.03,
+  "name": "00_08775afd3df8.png",
+  "src": "08775afd3df873c5.png"
+ },
+ {
+  "bg_ratio": 0.52,
+  "ratio": 0.95,
+  "aspect": 1.48,
+  "name": "01_10d90a27e9a4.png",
+  "src": "10d90a27e9a47ce9.png"
+ },
+ {
+  "bg_ratio": 0.6,
+  "ratio": 1.0,
+  "aspect": 1.82,
+  "name": "02_13fe96c22d7b.png",
+  "src": "13fe96c22d7bf663.png"
+ },
+ {
+  "bg_ratio": 0.48,
+  "ratio": 0.95,
+  "aspect": 1.55,
+  "name": "03_172361714d1f.png",
+  "src": "172361714d1f0f7d.png"
+ },
+ {
+  "bg_ratio": 0.56,
+  "ratio": 1.0,
+  "aspect": 1.81,
+  "name": "04_22c59f86e907.png",
+  "src": "22c59f86e9071d8e.png"
+ },
+ {
+  "bg_ratio": 0.52,
+  "ratio": 1.0,
+  "aspect": 1.5,
+  "name": "05_423e23ece008.png",
+  "src": "423e23ece008118c.png"
+ },
+ {
+  "bg_ratio": 0.63,
+  "ratio": 0.99,
+  "aspect": 0.67,
+  "name": "06_4be457f358ae.png",
+  "src": "4be457f358aeb92c.webp"
+ },
+ {
+  "bg_ratio": 0.63,
+  "ratio": 1.0,
+  "aspect": 1.55,
+  "name": "07_578491feec69.png",
+  "src": "578491feec698d77.png"
+ },
+ {
+  "bg_ratio": 0.61,
+  "ratio": 0.97,
+  "aspect": 0.67,
+  "name": "08_5cc1c1ad5aa9.png",
+  "src": "5cc1c1ad5aa95bf9.webp"
+ },
+ {
+  "bg_ratio": 0.67,
+  "ratio": 0.79,
+  "aspect": 1.25,
+  "name": "09_6593a4d4750b.png",
+  "src": "6593a4d4750b0ab3.png"
+ },
+ {
+  "bg_ratio": 0.56,
+  "ratio": 1.0,
+  "aspect": 1.48,
+  "name": "10_6593c91f47f3.png",
+  "src": "6593c91f47f3e8f8.png"
+ },
+ {
+  "bg_ratio": 0.3,
+  "ratio": 1.0,
+  "aspect": 1.46,
+  "name": "11_6e48c4aa15f8.png",
+  "src": "6e48c4aa15f8df8e.png"
+ },
+ {
+  "bg_ratio": 0.55,
+  "ratio": 1.0,
+  "aspect": 1.48,
+  "name": "12_74851c87cbd4.png",
+  "src": "74851c87cbd42b08.png"
+ },
+ {
+  "bg_ratio": 0.73,
+  "ratio": 0.61,
+  "aspect": 1.82,
+  "name": "13_8895e31880e1.png",
+  "src": "8895e31880e1fe9d.png"
+ },
+ {
+  "bg_ratio": 0.3,
+  "ratio": 0.77,
+  "aspect": 0.78,
+  "name": "14_8f435ca8f17c.png",
+  "src": "8f435ca8f17c1136.png"
+ },
+ {
+  "bg_ratio": 0.54,
+  "ratio": 1.0,
+  "aspect": 2.0,
+  "name": "15_8fbe127a26e1.png",
+  "src": "8fbe127a26e1a4cf.png"
+ },
+ {
+  "bg_ratio": 0.62,
+  "ratio": 1.0,
+  "aspect": 0.66,
+  "name": "16_921390c24a48.png",
+  "src": "921390c24a48564e.webp"
+ },
+ {
+  "bg_ratio": 0.48,
+  "ratio": 1.0,
+  "aspect": 1.81,
+  "name": "17_94d58f15c938.png",
+  "src": "94d58f15c93896d7.png"
+ },
+ {
+  "bg_ratio": 0.58,
+  "ratio": 1.0,
+  "aspect": 1.69,
+  "name": "18_975466a590ac.png",
+  "src": "975466a590ac94fb.png"
+ },
+ {
+  "bg_ratio": 0.47,
+  "ratio": 1.0,
+  "aspect": 1.8,
+  "name": "19_975e8592ad78.png",
+  "src": "975e8592ad782ad8.png"
+ },
+ {
+  "bg_ratio": 0.58,
+  "ratio": 1.0,
+  "aspect": 1.82,
+  "name": "20_9b5d11f1d763.png",
+  "src": "9b5d11f1d763abd2.png"
+ },
+ {
+  "bg_ratio": 0.57,
+  "ratio": 1.0,
+  "aspect": 1.51,
+  "name": "21_9e00aca4a035.png",
+  "src": "9e00aca4a035353c.png"
+ },
+ {
+  "bg_ratio": 0.65,
+  "ratio": 1.0,
+  "aspect": 1.46,
+  "name": "22_a3ed97655a70.png",
+  "src": "a3ed97655a70fb1a.png"
+ },
+ {
+  "bg_ratio": 0.48,
+  "ratio": 1.0,
+  "aspect": 0.49,
+  "name": "23_b0651d908767.png",
+  "src": "b0651d908767cd9d.webp"
+ },
+ {
+  "bg_ratio": 0.57,
+  "ratio": 1.0,
+  "aspect": 1.46,
+  "name": "24_c143646ef560.png",
+  "src": "c143646ef560768f.png"
+ },
+ {
+  "bg_ratio": 0.47,
+  "ratio": 1.0,
+  "aspect": 1.33,
+  "name": "25_c5bc5f353c01.png",
+  "src": "c5bc5f353c0173d1.png"
+ },
+ {
+  "bg_ratio": 0.61,
+  "ratio": 1.0,
+  "aspect": 1.76,
+  "name": "26_c67cbd655ebe.png",
+  "src": "c67cbd655ebe5f78.png"
+ },
+ {
+  "bg_ratio": 0.34,
+  "ratio": 1.0,
+  "aspect": 1.47,
+  "name": "27_db4737714227.png",
+  "src": "db4737714227d523.png"
+ },
+ {
+  "bg_ratio": 0.69,
+  "ratio": 1.0,
+  "aspect": 2.15,
+  "name": "28_de756cf0e643.png",
+  "src": "de756cf0e6435eb7.png"
+ },
+ {
+  "bg_ratio": 0.62,
+  "ratio": 0.87,
+  "aspect": 0.68,
+  "name": "29_df8bf2d97c7d.png",
+  "src": "df8bf2d97c7d9492.webp"
+ },
+ {
+  "bg_ratio": 0.54,
+  "ratio": 0.64,
+  "aspect": 1.25,
+  "name": "30_e48726ef7ae5.png",
+  "src": "e48726ef7ae52de7.webp"
+ },
+ {
+  "bg_ratio": 0.46,
+  "ratio": 1.0,
+  "aspect": 1.49,
+  "name": "31_e7f2440f3136.png",
+  "src": "e7f2440f313651ad.png"
+ },
+ {
+  "bg_ratio": 0.46,
+  "ratio": 0.93,
+  "aspect": 1.63,
+  "name": "32_e80055c3eb9a.png",
+  "src": "e80055c3eb9a6581.png"
+ },
+ {
+  "bg_ratio": 0.4,
+  "ratio": 1.0,
+  "aspect": 1.98,
+  "name": "33_f1812b578dbf.png",
+  "src": "f1812b578dbfee17.png"
+ },
+ {
+  "bg_ratio": 0.62,
+  "ratio": 1.0,
+  "aspect": 0.67,
+  "name": "34_fef515d7f568.png",
+  "src": "fef515d7f568f9a4.webp"
+ }
+]

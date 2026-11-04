@@ -1,0 +1,14 @@
+{
+ "assets/poses/pose-cloak.png": {
+  "dur": 2400
+ },
+ "assets/poses/pose-coat.png": {
+  "dur": 2400
+ },
+ "assets/poses/pose-grace.png": {
+  "dur": 2400
+ },
+ "assets/poses/pose-wave.png": {
+  "dur": 2400
+ }
+}

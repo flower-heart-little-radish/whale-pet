@@ -1,0 +1,58 @@
+# ---------- 系统垃圾 ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# ---------- 咖啡杯与编辑器的临时文件 ----------
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ---------- 本项目的工作目录（对话/记忆等） ----------
+.workbuddy/
+
+# ---------- Rust / Tauri ----------
+whale-pet-tauri/src-tauri/target/
+whale-pet-tauri/src-tauri/gen/schemas/
+*.pdb
+*.rlib
+*.rmeta
+*.d
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# ---------- Node（历史版本可能残留） ----------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ---------- 运行产物 / 打包输出 ----------
+# 成品目录里的可执行文件与取数脚本副本属于构建产物，由源码生成
+桌宠-Tauri/whale-pet.exe
+桌宠-Tauri/engine/
+whale-pet-tauri/whale-pet.exe
+
+# ---------- 取数模块：真实脚本不随仓库分发，只保留模板与说明 ----------
+whale-pet-tauri/engine/*.py
+!whale-pet-tauri/engine/EXAMPLE_probe.py
+
+# ---------- 本机配置（含个人路径/位置，不共享） ----------
+whale-pet-tauri/config.json
+桌宠-Tauri/config.json
+
+# ---------- 日志与调试残留 ----------
+*.log
+debug.out
+dbg.log
+drag.log
+trace.log
+*.tmp

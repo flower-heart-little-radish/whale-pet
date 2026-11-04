@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline';" />
+<title>WhalePet</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="stage">
+
+
+    <!-- ---------- 桌宠本体 ---------- -->
+    <div id="pet" class="pet hit">
+    <!-- ---------- 信息气泡 ---------- -->
+    <section id="bubble" class="bubble hit" aria-hidden="true">
+      <div class="b-glow"></div>
+
+      <div id="phaseBand" class="phase-band">
+        <span class="pb-tag" id="phaseText">—</span>
+        <span class="pb-time" id="phaseTimer">—</span>
+        <span class="pb-label" id="phaseDesc">后切换</span>
+        <i class="pb-fill" id="phaseFill"></i>
+      </div>
+
+      <div class="balance-block">
+        <div class="balance-line">
+          <span id="balance" class="balance">—</span>
+          <span class="balance-unit">积分</span>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="stats">
+        <div class="stat">
+          <span class="k">今日已用</span>
+          <span class="v"><b id="todayUsed">—</b><em>积分</em></span>
+        </div>
+        <div class="stat">
+          <span class="k">近 7 日</span>
+          <span class="v"><b id="weekUsed" title="按本机记录、可精确定位到单轮的开销汇总">—</b><em>积分</em></span>
+        </div>
+      </div>
+
+      <div id="spark" class="spark"></div>
+
+      <footer class="b-foot">
+        <span id="updated">更新于 —</span>
+        <span class="foot-btns">
+          <button id="btnRefresh" class="refresh" type="button">刷新</button>
+        </span>
+      </footer>
+
+
+      <div class="tail"></div>
+    </section>
+      <div class="pet-shadow"></div>
+      <div class="pet-inner">
+        <div id="sign" class="sign"><span id="signText"></span></div>
+        <div class="pet-breathe">
+          <img id="sprite" class="sprite" src="assets/chibi.png" alt="鲸鱼娘" draggable="false" />
+        </div>
+      </div>
+      <div id="fx" class="fx"></div>
+    </div>
+
+  </div>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function () {
+      try {
+        var t = window.__TAURI__;
+        window.__TAURI__.core.invoke('trace', { msg: 'dom ready tauri=' + (!!t) + ' core=' + (!!(t && t.core)) });
+      } catch (e) {
+        try { window.__TAURI__.core.invoke('trace', { msg: 'probe error ' + e.message }); } catch (e2) {}
+      }
+    });
+  </script>
+  <script src="shim.js"></script>
+  <script src="pricing.js"></script>
+  <script src="app.js"></script>
+  <script src="menu.js"></script>
+</body>
+</html>
