@@ -26,7 +26,7 @@ Rust + Tauri 2 重写版，前端（HTML/CSS/JS）与原 Electron 版一致，�
 ## 目录
 
 - `whale-pet.exe` —— 主程序（约 11 MB）
-- `engine/credit_probe.py` —— 取数脚本（沿用原版）
+- `engine/credit_probe.py` —— 取数脚本，**需自己提供**（仓库里只带模板，见 `engine/README.md`）
 - `config.json` —— 首次运行的初始配置（之后写到 `%APPDATA%\com.whalepet.desktop\config.json`）
 
 ## 从源码构建
